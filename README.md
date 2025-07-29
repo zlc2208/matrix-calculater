@@ -1,5 +1,5 @@
-# matrix-calculater
-This is a matrix calculater realized by **C** .<br>
+# matrix-calculator
+This is a matrix calculator realized by **C** .<br>
 It's easy to use it. Just download and start [矩阵计算器.exe](https://github.com/zlc2208/matrix-calculater/edit/main/矩阵计算器.exe):<br>
 1. Firstly, you will see this ![initial.png](https://github.com/zlc2208/matrix-calculater/edit/main/initial.png). <br>
    You could choose calculation type by inputing the number before the type list.
